@@ -1,5 +1,5 @@
 # Carpona
-Carpona Knowledge IDE - design documents
+Carpona Knowledge Assistant - design documents
 
 See [github wiki](https://github.com/TrueLink/Carpona/wiki)
 
